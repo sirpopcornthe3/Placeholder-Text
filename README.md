@@ -1,2 +1,2 @@
 # Placeholder-Text
-testing desktop app
+This Repository and readme should be visible in github desktop
